@@ -44,4 +44,8 @@ the code will read it.
 
 5) elliptic_code: the code that we use as starting point. It's a classical FE method for Elliptic Problem
 		  with higher-order polynomial degree 	["Understanding and Implementing the Finite
-		  Element Method" by Mark S. Gockenbach (copyright SIAM 2006).]
+		  Element Method" by Mark S. Gockenbach (copyright SIAM 2006).
+		  
+## Report and Slides
+
+If you want to see more detail of the project, you can see the extended [report](https://github.com/danielececcarelli/Mass-Lumping-Wave-Equation/blob/master/Report%20and%20presentation/Ceccarelli_Missoni_Report.pdf)  or the final [slides](https://github.com/danielececcarelli/Mass-Lumping-Wave-Equation/blob/master/Report%20and%20presentation/Ceccarelli_Missoni_Slides.pdf).
