@@ -4,11 +4,11 @@
 
 ## How to run the simulation:
 
-1) Choose one of the MAIN.m 
-	(a) MAIN_rectangle for a simulation on a 2D rectangle
-	(b) MAIN_pdetool for a simulation on a 2D mesh coming from pde_tool draw (you can also build your own mesh - see later *)
-	(c) MAIN_convergence_h for a convergence analysis in space (rectangle mesh)
-	(d) MAIN_convergence_dt for a convergence analysis in space (rectangle mesh)
+1) Choose one of the MAIN.m:
+	- a) MAIN_rectangle for a simulation on a 2D rectangle
+	- b) MAIN_pdetool for a simulation on a 2D mesh coming from pde_tool draw (you can also build your own mesh - see later *)
+	- c) MAIN_convergence_h for a convergence analysis in space (rectangle mesh)
+	- d) MAIN_convergence_dt for a convergence analysis in space (rectangle mesh)
 
 2) Choose your data (for example Time, dt, degree, k(x,y), f(x,y,t)); 
 	if you are in case 1.a), to change the the mesh size h you need to change n in "T = RectangleMeshD1(n)"
